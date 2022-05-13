@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/1325192.jpg)]
+[![MasterHead](https://www.cs.duke.edu/sites/default/files/2019-06/datascience-banner1800x650.jpg)]
 
 <h1 align="center">Hi 👋, I'm Geetanjali Kotkar</h1>
 <h3 align="center">A Data Science enthusiastic from India</h3>
