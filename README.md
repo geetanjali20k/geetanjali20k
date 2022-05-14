@@ -1,4 +1,4 @@
-
+<image align="center" alt="image" width="1000" src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif">
 
 <h1 align="center">Hi 👋, I'm Geetanjali Kotkar</h1>
 <h3 align="center">A Data Science enthusiastic from India</h3>
