@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Geetanjali Kotkar</h1>
 <h3 align="center">A Data Science enthusiastic from India</h3>
-<img align="right" alt="image" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
+<img align="left" alt="image" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
